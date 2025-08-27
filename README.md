@@ -1,7 +1,7 @@
 
 # Resumos git e github
 
-Projeto para fins educacionais, abordando conceitos de versionamento de código
+Projeto para fins educacionais, abordando conceitos de versionamento de código com git e github
 ## Aprendizados
 
 versionamento de código com git e github 
