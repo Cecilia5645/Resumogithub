@@ -38,4 +38,3 @@ git clone https://github.com/Cecilia5645/Resumogithub
 ## Autora
 
 - [Cecilia5645](https://www.github.com/Cecilia5645)
-
